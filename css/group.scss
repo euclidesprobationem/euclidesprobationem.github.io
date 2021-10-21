@@ -1,0 +1,170 @@
+---
+---
+
+$gray: #999;
+$light-gray: #EEE;
+
+/* Space out content a bit */
+body {
+    padding-top: 20px;
+}
+
+.header {
+    border-bottom: 1px solid $light-gray;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer {
+    /* padding-top: 19px; */
+    color: $gray;
+    border-top: 1px solid $light-gray;
+    text-align: center;
+    font-size: 0.8em;
+
+    a:link, a:visited {
+        color: $gray;
+    }
+}
+
+.fa {
+    color: $gray;
+}
+a > .fa {
+    // make sure that font-awesome icons are underlined in links
+    display: inline;
+}
+
+/* /\* Customize container *\/ */
+/* @media (min-width: 768px) { */
+/*     .container { */
+/*         max-width: 730px; */
+/*     } */
+/* } */
+
+/* Jumbotron */
+.jumbotron {
+    text-align: justify;
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    font-size: 15px
+    //font-size: 125%
+}
+
+// Matt has .center, .center-medium, .center-large
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 80%
+}
+
+
+/* Group logo */
+#logo {
+    width: 300px;
+    height: 100px;
+    margin: 2px 0 8px 0;
+}
+
+/* Front page news. */
+ul.news {
+
+    .date {
+        color: $gray;
+        font-weight: bold;
+    }
+
+    > li {
+        margin-top: 1em;
+    }
+}
+
+@media (min-width: 576px) {
+    .project-people { column-count: 2 }
+    .card-columns   { column-count: 2 }
+}
+
+@media (min-width: 768px) {
+    .role.phd      { column-count: 2 }
+    .project-people { column-count: 3 }
+    //.card-columns   { column-count: 3 }
+    .card-columns   { display: flex;
+                      flex-wrap: wrap;
+                      justify-content: start;
+                      column-gap: 0;
+                      align-items: start; }
+    .card           { margin: 10px;
+                      max-width: 350px;   }
+}
+
+.title img {
+    max-width: 50%;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.profile {
+    object-fit: cover; // makes sure it's cropped
+}
+
+.noprofile {
+    circle {
+        fill: $light-gray;
+    }
+    text {
+        font-weight: 700;
+        fill: white;
+    }
+}
+
+.card {
+    border-radius: 20px;
+    .profile {
+        height: 40px;
+        width: 40px;
+        margin: 3px;
+    }
+
+    //.card-footer { padding: 0.5em }
+    .card-footer { padding: 0.5em;
+                   border-radius: 0 0 20px 20px}
+}
+
+.person {
+
+    margin-bottom: 20px;
+
+    .profile {
+        height: 90px;
+        width: 90px;
+    }
+
+    .bio {
+        color: $gray;
+    }
+
+    .email {
+    font-size: 85%
+    }
+    .person-name {
+        margin: 0;
+    }
+}
+
+.person-without-image {
+    margin: 0;
+
+    .bio {
+        margin-left: 1em;
+    }
+}
+
+svg {
+    // make the alignment just like img from bootstrap's reboot.scss
+    vertical-align: middle;
+}

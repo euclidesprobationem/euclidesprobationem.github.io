@@ -1,0 +1,39 @@
+---
+layout: default
+title: Open Source Software
+---
+
+<table class="table">
+    <tbody>
+        {% for item in site.data.software %}
+        {% assign sw = item[1] %}
+        <tr>
+            {% if sw.image %}
+            <td class = "softwareimage" align=center>
+                <img alt="{{ sw.title }}"
+                     title="{{ sw.title }}"
+                     src="{{ site.baseurl }}/{{ sw.image }}"
+                     height=170>
+            </td>
+            <td class="software">
+            {% else %}
+            <td class="software" colspan="2">
+            {% endif %}
+
+                <span class="softtitle">
+                    <strong><big><a href="{{ sw.link|escape }}">{{ sw.title|escape }}</a></strong></big>.
+                </span><br />
+                <span class="authors">
+                    <strong>{{ sw.authors|escape }}</strong>.
+                </span>
+                {%- if sw.description %}
+                <span class="note">
+                <br />
+                {{ sw.description|escape }}
+                </span>
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+    </table>

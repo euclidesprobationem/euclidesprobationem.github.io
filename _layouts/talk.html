@@ -1,0 +1,23 @@
+---
+layout: post
+---
+
+{{ content }}
+
+<dl>
+  <dt>When</dt>
+  <dd>{{ page.when }}</dd>
+  {% if page.zoom %}
+    <dt>Link to join</dt>
+    <dd><a href="{{ page.zoom.link }}">{{ page.zoom.link }}</a></dd>
+    <dt>Meeting ID</dt>
+    <dd>{{ page.zoom.id }}</dd>
+        {% if page.zoom.passcode %}
+            <dt>Passcode</dt>
+            <dd>{{ page.zoom.passcode }}</dd>
+        {% endif %}
+  {% else %}
+    <dt>Where</dt>
+    <dd>{{ page.where }}</dd>
+  {% endif %}
+</dl>

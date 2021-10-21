@@ -1,0 +1,39 @@
+
+{% assign project = include.project %}
+
+{% if project.link %}
+    {% assign proj-url = project.link %}
+{% else %}
+    {% capture proj-url %}{{site.baseurl}}{{project.url}}.html{% endcapture %}
+{% endif %}
+
+<div class="card">
+    <div class="card-body">
+        {% if project.image %}
+            {% assign imgurl = project.image %}
+            {% capture init %}{{ project.image | slice: 0,1 }}{% endcapture %}
+            {% if init == "/" %}
+                {% capture imgurl %}{{site.baseurl}}{{project.image}}{% endcapture %}
+            {% endif %}
+            <a href="{{ proj-url }}">
+                <img class="img-fluid mb-3" src="{{imgurl}}", width="30", height="30" alt="{{project.title}}"/>
+            </a>
+        {% endif %}
+        {% if project.notitle != true %}
+            <h4 class="card-title">
+                {{  project.title }}
+            </h4>
+        {% endif %}
+        {% if project.subtitle != null and project.subtitle != "" %}
+            <h6 class="card-subtitle mb-2 text-muted">
+                {{  project.subtitle }}
+            </h6>
+        {% endif %}
+        <div class="card-text">
+            {{ project.description | markdownify }}
+        </div>
+        {% if project.no-link != true or project.link %}
+            <a href="{{ proj-url }}"> Read more &raquo;</a>
+        {% endif %}
+    </div>
+</div>

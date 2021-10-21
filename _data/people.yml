@@ -1,0 +1,79 @@
+# PI
+
+tuo leng:
+    display_name: "Tuo Leng"
+    webpage: "https://ai.shu.edu.cn/info/1114/1224.htm"
+    role: pi
+    image: img/people/tuoleng.jpeg
+    bio: Associate Professor of Artificial Intelligence Institute
+    email: "tleng@shu.edu.cn"
+
+
+
+# Postdocs, ordered by seniority at present
+
+
+#rkurchin:
+#    display_name: "Rachel Kurchin"
+#    role: postdoc
+#    image: img/people/rkurchin.jpg
+#    webpage: "https://rkurchin.github.io"
+#    email: "rkurchin [at] cmu [dot] edu"
+#    bio: MolSSI Postdoctoral Fellow, Mechanical Engineering and Materials Science and Engineering
+
+
+# Research Staff
+
+changhaowu:
+    display_name: "Changhao Wu"
+    webpage: "https://changhaowu.github.io"
+    bio: Research Assistant
+    role: staff
+    image: img/people/changhaowu.jpg
+    email: "karllonrenz@outlook.com"
+
+
+# masters
+
+
+# undergraduate
+
+
+
+# phd students, currently alphabetical
+
+
+
+# COMMENCE ALUMNI SECTION
+
+# first postdocs
+
+#abhishek:
+#    display_name: "Abhishek Khetan"
+#    role: alumni-postdoc
+#    bio: Postdoctoral Researcher at Dutch Institute for Fundamental Energy Research
+
+
+
+# then phd, I think these are chronological
+
+#oleg:
+#    display_name: "Oleg Sapunkov"
+#    role: alumni-phd
+#    bio: Mechanical Engineer, U.S. Army CCDC GVSC
+
+
+
+
+# masters, these ones are alphabetical currentlys
+chaojie ni:
+    display_name: "Chaojie Ni"
+    role: alumni-masters
+    bio: Mobile engineer, Kernel Development Group, Baidu Inc
+    image: img/people/chaojieni.jpeg
+
+
+
+
+# undergrads
+

@@ -1,0 +1,112 @@
+---
+layout: default
+title: Home
+notitle: true
+
+# groups of columns of {roles: list, width: num, image: bool}
+role-tables:
+- - roles: [pi, postdoc, masters, staff, ugrad]
+    width: 4
+    image: true
+  - roles: [phd]
+    width: 8
+    image: true
+- - roles: [alumni-postdoc, alumni-phd, alumni-masters, alumni-ugrad]
+    width: 8
+    image: true
+
+--- 
+
+<!-- role-tables:
+- - roles: [pi, masters, staff]
+    width: 4
+    image: true
+  - roles: [phd]
+    width: 8
+    image: true
+- - roles: [alumni-postdoc, alumni-phd, alumni-masters, alumni-ugrad]
+    width: 9
+    image: false
+
+--- -->
+
+<div class="jumbotron">
+  <!--<h1>Viswanathan Research Group at Carnegie Mellon University</h1>-->
+  <h1>Omega Proof Group at Shanghai University</h1>
+
+  <!-- <p>
+    Vision: Invent and Optimize Materials, Processes and Devices to Accelerate the Transition to Sustainable Transportation, Aviation, Chemicals and Fuels.
+  </p>
+  -->
+  <p>
+    Vision: ML-driven Automated theorem proving
+  </p>
+
+  </p>
+     Research Direction: Automated theorem proving, XAI, Data Augmentation, Model Distillation
+  <p>
+
+
+  <img src="img/group_photo.jpeg" alt="Group Photo" class="center">
+
+</div>
+
+<!--<div id="research">-->
+<!--    <section>-->
+<!--        <h2>Research</h2>-->
+<!--        <div class="card-columns">-->
+<!--            {% for p in site.projects %}-->
+<!--                {% if p.status != "inactive" %}-->
+<!--                    {% include project-card.html project=p %}-->
+<!--                {% endif %}-->
+<!--            {% endfor %}-->
+<!--        </div>-->
+<!--    </section>-->
+<!--</div>-->
+
+
+
+<div id="people">
+    <h2>People</h2>
+    {% for role-table in page.role-tables %}
+        <section class="people row justify-content-between">
+            {% for role-column in role-table %}
+                <div class="col-md-{{ role-column.width }}">
+                    {% for role in role-column.roles %}
+                        {% include role-people.html role=role image=role-column.image %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </section>
+    {% endfor %}
+</div>
+
+
+
+<section>
+  <div id="community">
+  <h2>Community</h2>
+  <p>Our group is involved in several efforts to spur community-building and research dissemination efforts.</p>
+
+  <p>Prof. Leng works in XXXXX. Find more information <a href="">here</a>.</p>
+</section>
+
+
+<!-- 
+<section>
+    <div id="news">
+    <h2>News</h2>
+    <ul class="news list-unstyled">
+        {% for post in site.posts limit: site.front_page_news %}
+            {% include news-item.html item=post %}
+        {% endfor %}
+    </ul>
+    {% assign numposts = site.posts | size %}
+    {% if numposts >= 1 %}
+        <p>
+            <span class="fa fa-fw fa-history"></span>
+            <a href="{{ site.baseurl }}/blog.html">Older posts&hellip;</a>
+        </p>
+    {% endif %}
+</section> 
+-->
