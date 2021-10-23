@@ -5,7 +5,7 @@ tuo leng:
     webpage: "https://ai.shu.edu.cn/info/1114/1224.htm"
     role: pi
     image: img/people/tuoleng.jpeg
-    bio: Associate Professor of School of computer engineer and science/School of artificial intelligence
+    bio: Associate Professor of School of Computer Engineer and Science/School of Artificial Intelligence
     email: "tleng@shu.edu.cn"
 
 
@@ -38,11 +38,18 @@ changhaowu:
 xiaokaizhang:
     display_name: "Xiaokai Zhang"
     webpage: "https://github.com/BitSecret"
-    bio: Master's Student, School of computer engineering and science, Shanghai University
-    role: Master's Students
+    bio: Masters Student, School of Computer Engineer and Science, Shanghai University
+    role:  masters
     image: img/people/xiaokaizhang.jpg
     email: "xiaokaizhang1999@163.com"
 
+dengfengyue:
+    display_name: "DengFeng Yue"
+    webpage: "https://github.com/331368068"
+    bio: Masters Student, School of Computer Engineer and Science, Shanghai University
+    role:  masters
+    image: img/people/dengfengyue.jpg
+    email: "ydf@shu.edu.cn"
 
 # undergraduate
 
