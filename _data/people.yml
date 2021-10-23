@@ -52,6 +52,13 @@ dengfengyue:
     email: "ydf@shu.edu.cn"
 
 # undergraduate
+zhufangzhen:
+    display_name: "FangZhen Zhu"
+    webpage: "https://github.com/pigsquare"
+    bio: Undergraduate Student, School of Computer Engineer and Science, Shanghai University
+    role:  masters
+    image: img/people/zhufangzhen.jpg
+    email: "zhufz@shu.edu.cn"
 
 
 
