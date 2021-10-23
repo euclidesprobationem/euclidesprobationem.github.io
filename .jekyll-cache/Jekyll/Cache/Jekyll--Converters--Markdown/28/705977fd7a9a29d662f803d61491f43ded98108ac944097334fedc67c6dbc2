@@ -1,0 +1,13 @@
+I"@<p>Our group is primarily computational/theoretical, with a small but growing experimental presence in collaboration with Prof. Jay Whitacre, focused on integrating machine learning approaches with automated experimentation. We have a strong commitment to using and contributing to open-source software development efforts. We’re always learning more, but the current methods/tools most commonly used in the group are summarized here.</p>
+
+<ul>
+  <li>Electronic structure calculations: Density Functional Theory using <a href="https://wiki.fysik.dtu.dk/gpaw/">GPAW</a> and the <a href="https://wiki.fysik.dtu.dk/ase/">Atomic Simulation Environment (
+ASE)</a></li>
+  <li><a href="https://sciml.ai">Scientific Machine Learning</a> in both <a href="https://julialang.org">Julia</a> and Python</li>
+  <li>Phase-field modeling: <a href="https://www.mooseframework.org">MOOSE</a></li>
+  <li>Crystal structure search/prediction: <a href="http://calypso.cn" data-proofer-ignore="">CALYPSO</a></li>
+  <li>Bayesian optimization with <a href="https://dragonfly-opt.readthedocs.io/en/master/">Dragonfly</a></li>
+  <li>Nearly all of the above rely on high-performance computing resources on the shared College of Engineering Cluster mananged by our group, Arjuna, as
+ well as at national leadership computing facilities such as NERSC and XSEDE</li>
+</ul>
+:ET

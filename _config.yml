@@ -1,4 +1,4 @@
-name: Omega Proof Group 
+name: Machine Proof Group 
 url: https://euclidesprobationem.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
