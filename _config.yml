@@ -17,20 +17,22 @@ roles:
   #   name: Postdoctoral Researchers
   - key: staff
     name: Research Staff
-  - key: phd
-    name: Doctoral Students
+  # - key: phd
+  #   name: Phd Students
   - key: masters
-    name: Master's Students
+    name: Masters Students
   - key: ugrad
     name: Undergraduate Students
   - key: alumni-masters
-    name: Master's Alumni
+    name: Alumni
   # - key: alumni-phd
-  #   name: PhD Alumni
+  #   name: Alumni
   # - key: alumni-postdoc
-  #   name: Postdoc Alumni
-  - key: alumni-ugrad
-    name: Former Undergraduate Students
+  #   name: Alumni
+  # - key: alumni-ugrad
+  #   name: Former Undergraduate Students
+
+  # Next year modification, should focus on remove different labels of Alumni, only Alumni label left
 
 # Number of news stories on the front page.
 front_page_news: 8
