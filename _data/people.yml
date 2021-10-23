@@ -43,6 +43,13 @@ xiaokaizhang:
     image: img/people/xiaokaizhang.jpg
     email: "xiaokaizhang1999@163.com"
 
+dengfengyue:
+    display_name: "DengFeng Yue"
+    webpage: "https://github.com/331368068"
+    bio: Master's Student, School of Computer Engineer and Science, Shanghai University
+    role:  masters
+    image: img/people/dengfengyue.jpg
+    email: "ydf@shu.edu.cn"
 
 # undergraduate
 
