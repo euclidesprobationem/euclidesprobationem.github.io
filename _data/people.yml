@@ -35,6 +35,14 @@ changhaowu:
 
 # masters
 
+xiaokaizhang:
+    display_name: "Xiaokai Zhang"
+    webpage: "https://github.com/BitSecret"
+    bio: Graduate student, School of computer engineering and science, Shanghai University
+    role: graduate student
+    image: img/people/xiaokaizhang.jpg
+    email: "xiaokaizhang1999@163.com"
+
 
 # undergraduate
 
