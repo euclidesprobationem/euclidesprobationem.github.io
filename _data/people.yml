@@ -88,6 +88,14 @@ yiminghe:
     image: img/people/yiminghe.jpg
     email: "h748978460@163.com"
 
+xiaoxiaojin:
+    display_name: "XiaoXiao Jin"
+    webpage: "https://github.com/J1372628520"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/xiaoxiaojin.jpg
+    email: "leo_jxx@163.com"
+
 
 # undergraduate
 zhufangzhen:
