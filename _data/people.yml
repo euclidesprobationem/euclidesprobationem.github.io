@@ -109,8 +109,16 @@ yiwenhuang:
     webpage: "https://github.com/Eaven21"
     bio: Masters Student, School of Computer Engineer and Science
     role:  masters
-    image: img/people/yiwenhuang.jpg
+    image: img/people/YiWenHuang.jpg
     email: "15967121844@163.com"
+
+yifanwang:
+    display_name: "YiFan Wang"
+    webpage: "https://github.com/yf0216"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yifanwang.jpg
+    email: "wangyifan0216@shu.edu.cn"
 
 
 # undergraduate
