@@ -103,6 +103,14 @@ xiaoxiaojin:
     role:  masters
     image: img/people/xiaoxiaojin.jpg
     email: "leo_jxx@163.com"
+    
+yiwenhuang:
+    display_name: "YiWen Huang"
+    webpage: "https://github.com/Eaven21"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yiwenhuang.jpg
+    email: "15967121844@163.com"
 
 
 # undergraduate
