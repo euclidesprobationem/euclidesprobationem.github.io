@@ -67,6 +67,14 @@ yiminghe:
     image: img/people/yiminghe.jpg
     email: "h748978460@163.com"
     
+chenyangmao:
+    display_name: "ChenYang Mao"
+    webpage: "https://github.com/shadymcy"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/chenyangmao.jpg
+    email: "shadymao@shu.edu.com"
+    
 # <<<<<<< g826796047-patch-1
 guoyanjun:
     display_name: "YanJun Guo"
