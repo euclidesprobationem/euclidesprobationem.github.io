@@ -57,6 +57,13 @@ jiazou:
     role: masters
     image: img/people/JiaZou.jpg
     email: "ZouJ@shu.edu.cn"
+guoyanjun:
+    display_name: "YanJun Guo"
+    webpage: "https://github.com/g826796047"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yanjunguo.jpg
+    email: "yanjunguo@163.com"
 
 # undergraduate
 zhufangzhen:
