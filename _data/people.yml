@@ -65,6 +65,19 @@ yiminghe:
     role:  masters
     image: img/people/yiminghe.jpg
     email: "h748978460@163.com"
+    
+# <<<<<<< g826796047-patch-1
+guoyanjun:
+    display_name: "YanJun Guo"
+    webpage: "https://github.com/g826796047"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yanjunguo.jpg
+    email: "yanjunguo@163.com"
+    
+# =======
+    
+# >>>>>>> main
 
 # undergraduate
 zhufangzhen:
