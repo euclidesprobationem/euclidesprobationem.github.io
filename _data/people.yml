@@ -50,6 +50,7 @@ dengfengyue:
     role:  masters
     image: img/people/dengfengyue.jpg
     email: "ydf@shu.edu.cn"
+
 jiazou:
     display_name: "Jia Zou"
     webpage: "https://github.com/PersonNoName"
@@ -57,6 +58,15 @@ jiazou:
     role: masters
     image: img/people/JiaZou.jpg
     email: "ZouJ@shu.edu.cn"
+
+yiminghe:
+    display_name: "YingMing He"
+    webpage: "https://github.com/748978460"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yiminghe.jpg
+    email: "h748978460@163.com"
+
 
 # undergraduate
 zhufangzhen:
