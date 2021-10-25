@@ -201,6 +201,7 @@ Zhufu Lu:
     image: img/people/zhufulu.jpg 
     email: "zflu@shlingang.com" 
 
+# <<<<<<< HEAD
 Yu Wang:
     display_name: "Yu Wang"
     role: alumni-masters
@@ -209,4 +210,7 @@ Yu Wang:
     
 
 # undergrads 
+# =======
+# undergrads
+# >>>>>>> 71e38a81b8176ce7a025976d7928f761828cf7ee
 
