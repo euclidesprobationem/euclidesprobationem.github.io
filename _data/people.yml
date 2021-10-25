@@ -50,6 +50,13 @@ dengfengyue:
     role:  masters
     image: img/people/dengfengyue.jpg
     email: "ydf@shu.edu.cn"
+zhezhe:
+    display_name: "Zhe Zhu"
+    webpage: "https://github.com/331368068"
+    bio: Masters Student, School of Computer Engineer and Science, Shanghai University
+    role:  masters
+    image: img/people/Zhe Zhu.jpg
+    email: "zhuzhe@shu.edu.cn"
 
 jiazou:
     display_name: "Jia Zou"
