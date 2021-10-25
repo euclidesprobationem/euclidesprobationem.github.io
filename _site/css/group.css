@@ -50,7 +50,7 @@ section { margin-bottom: 2em; }
 
 .card .card-footer { padding: 0.5em; border-radius: 0 0 20px 20px; }
 
-.person { min-height: 120px; padding-bottom: 15px; text-align: left; padding-top: 15px; }
+.person { min-height: 120px; padding-bottom: 20px; text-align: left; padding-top: 15px; }
 
 .person .profile { height: 95px; width: 95px; }
 
