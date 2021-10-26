@@ -219,5 +219,27 @@ Yu Wang:
     email: 1028247029@qq.com
     
 
-# undergrads 
+# <<<<<<< HEAD
+# # undergrads 
+# =======
+# Zhufu Lu: 
+#     display_name: "Zhufu Lu" 
+#     role: alumni-masters 
+#     bio: Manager,Department of Attract Investment , Lingang Group 
+#     image: img/people/zhufulu.jpg 
+#     email: "zflu@shlingang.com" 
+
+# # <<<<<<< HEAD
+# Yu Wang:
+#     display_name: "Yu Wang"
+#     role: alumni-masters
+#     bio: Software Engineer，5G development department，Huawei inc
+#     image: img/people/yuwang.JPG
+    
+
+# # undergrads 
+# # =======
+# # undergrads
+# # >>>>>>> 71e38a81b8176ce7a025976d7928f761828cf7ee
+# >>>>>>> ca3a83c5e1c19f1ec5204cd460c7c24bc3050acb
 
