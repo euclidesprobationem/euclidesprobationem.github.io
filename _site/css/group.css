@@ -32,7 +32,7 @@ ul.news > li { margin-top: 1em; }
 
 @media (min-width: 576px) { .project-people { column-count: 2; } .card-columns { column-count: 2; } }
 
-@media (min-width: 768px) { .role.phd { column-count: 2; } .project-people { column-count: 3; } .card-columns { display: flex; flex-wrap: wrap; justify-content: start; column-gap: 0; align-items: start; } .card { margin: 10px; max-width: 350px; } }
+@media (min-width: 768px) { .role.masters { column-count: 2; } .project-people { column-count: 3; } .card-columns { display: flex; flex-wrap: wrap; justify-content: start; column-gap: 0; align-items: start; } .card { margin: 10px; max-width: 350px; } }
 
 .title img { max-width: 50%; }
 
@@ -50,11 +50,11 @@ section { margin-bottom: 2em; }
 
 .card .card-footer { padding: 0.5em; border-radius: 0 0 20px 20px; }
 
-.person { margin-bottom: 20px; }
+.person { min-height: 120px; padding-bottom: 20px; text-align: left; padding-top: 15px; }
 
-.person .profile { height: 90px; width: 90px; }
+.person .profile { height: 95px; width: 95px; }
 
-.person .bio { color: #999; }
+.person .bio { color: #999; font-size: 95%; }
 
 .person .email { font-size: 85%; }
 
