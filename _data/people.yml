@@ -7,6 +7,14 @@ tuo leng:
     image: img/people/tuoleng.jpeg
     bio: Associate Professor of School of Computer Engineer and Science/School of Artificial Intelligence
     email: "tleng@shu.edu.cn"
+    
+zhenbing zeng:
+    display_name: "Zhenbing Zeng"
+    webpage: "https://qwc.shu.edu.cn/info/1074/2016.htm"
+    role: pi
+    image: img/people/zhenbingzeng.JPG
+    bio: Professor of College of Sciences
+    email: " zbzeng@sibs.ac.cn"
 
 
 
@@ -179,6 +187,7 @@ chaojie ni:
     role: alumni-masters
     bio: Mobile engineer, Kernel Development Group, Baidu Inc
     image: img/people/chaojieni.jpeg
+    email: "609295353@qq.com"
 
 
 Chao Yang:
@@ -193,6 +202,22 @@ jielin wan:
     role: alumni-masters
     bio: Mobile engineer, Kernel Development Group, Baidu Inc
     image: img/people/jielinwang.JPG
+    email: "jielinwan@163.com"
 
-# undergrads
+Zhufu Lu: 
+    display_name: "Zhufu Lu" 
+    role: alumni-masters 
+    bio: Manager,Department of Attract Investment, Lingang Group 
+    image: img/people/zhufulu.jpg 
+    email: "zflu@shlingang.com" 
+
+Yu Wang:
+    display_name: "Yu Wang"
+    role: alumni-masters
+    bio: Software Engineer，5G development department, Huawei inc
+    image: img/people/yuwang.JPG
+    email: 1028247029@qq.com
+    
+
+# undergrads 
 
