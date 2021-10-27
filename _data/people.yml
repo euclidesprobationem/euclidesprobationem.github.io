@@ -144,6 +144,15 @@ runanwang:
     image: img/people/runanwang.jpg
     email: "luckyrunan@163.com"
 
+tanrongwei:
+    display_name: "Tanrong Wei"
+    webpage: "https://github.com/59680"
+    bio: Masters Student, School of Science
+    role:  masters
+    image: img/people/tanrongwei.JPG
+    email: "trongwei@163.com"
+
+
 
 # undergraduate
 zhufangzhen:
