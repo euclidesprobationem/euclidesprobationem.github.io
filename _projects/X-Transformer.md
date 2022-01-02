@@ -3,7 +3,7 @@ title: X-Transformer
 
 description: "We work toward X-Transformer. As we all know, transformer is SOTA of nlp tasks and generally replace CNN in vision tasks, but the theory about transformers develops a bit slowly, we try to explain and design new attention mechanism by leveraging the rich literatures of differential equation"
 
-image:  img/project-image/X-transformer/vector_field.png
+# image:  img/project-image/X-transformer/vector_field.png
 layout: default
 last-updated: 2022-01-02
 ---
