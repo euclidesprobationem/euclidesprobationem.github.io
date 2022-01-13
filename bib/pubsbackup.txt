@@ -1,0 +1,66 @@
+@misc{zhao2019variational,
+      title={Variational AutoEncoder For Regression: Application to Brain Aging Analysis}, 
+      author={Qingyu Zhao and Ehsan Adeli and Nicolas Honnorat and Tuo Leng and Kilian M. Pohl},
+      year={2019},
+      eprint={1904.05948},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@inproceedings{DBLP:conf/icann/LengW0W20,
+	author = {Tuo Leng and Yu Wang and Ying Li and Zhijie Wen},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	biburl = {https://dblp.org/rec/conf/icann/LengW0W20.bib},
+	booktitle = {Artificial Neural Networks and Machine Learning - {ICANN} 2020 - 29th International Conference on Artificial Neural Networks, Bratislava, Slovakia, September 15-18, 2020, Proceedings, Part {I}},
+	doi = {10.1007/978-3-030-61609-0\_62},
+	editor = {Igor Farkas and Paolo Masulli and Stefan Wermter},
+	pages = {787--799},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Tue, 20 Oct 2020 17:59:09 +0200},
+	title = {ACE-Net: Adaptive Context Extraction Network for Medical Image Segmentation},
+	url = {https://doi.org/10.1007/978-3-030-61609-0\_62},
+	volume = {12396},
+	year = {2020},
+	Bdsk-Url-1 = {https://doi.org/10.1007/978-3-030-61609-0%5C_62}}
+
+@inproceedings{DBLP:conf/icann/0028WLW20,
+	author = {Ying Li and Yu Wang and Tuo Leng and Zhijie Wen},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	biburl = {https://dblp.org/rec/conf/icann/0028WLW20.bib},
+	booktitle = {Artificial Neural Networks and Machine Learning - {ICANN} 2020 - 29th International Conference on Artificial Neural Networks, Bratislava, Slovakia, September 15-18, 2020, Proceedings, Part {I}},
+	doi = {10.1007/978-3-030-61609-0\_63},
+	editor = {Igor Farkas and Paolo Masulli and Stefan Wermter},
+	pages = {800--810},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Tue, 20 Oct 2020 17:59:09 +0200},
+	title = {Wavelet U-Net for Medical Image Segmentation},
+	url = {https://doi.org/10.1007/978-3-030-61609-0\_63},
+	volume = {12396},
+	year = {2020},
+	Bdsk-Url-1 = {https://doi.org/10.1007/978-3-030-61609-0%5C_63}}
+
+
+@article{cite-key,
+	abstract = {In this paper, we give a generalization of Cauchy-Schwarz inequality in unitary spaces and obtain its integral analogs. As an application, we establish an inequality for covariances.},
+	author = {Tuo, Leng},
+	da = {2015/06/17},
+	date-added = {2021-10-20 19:18:07 +0800},
+	date-modified = {2021-10-20 19:18:07 +0800},
+	doi = {10.1186/s13660-015-0719-z},
+	id = {Tuo2015},
+	isbn = {1029-242X},
+	journal = {Journal of Inequalities and Applications},
+	number = {1},
+	pages = {201},
+	title = {Generalizations of Cauchy-Schwarz inequality in unitary spaces},
+	ty = {JOUR},
+	url = {https://doi.org/10.1186/s13660-015-0719-z},
+	volume = {2015},
+	year = {2015},
+	Bdsk-Url-1 = {https://doi.org/10.1186/s13660-015-0719-z}}
+
+
+
+
