@@ -1,3 +1,15 @@
+---
+title: Compression
+
+description: "We work toward Model Compression"
+
+# image:  img/project-image/XAI-emoji.jpeg
+layout: default
+last-updated: 2021-10-1
+
+---
+
+
 #### Construct smaller and faster neural network models
 
 #### Applying network prune、knowledge distillation and quantization methods

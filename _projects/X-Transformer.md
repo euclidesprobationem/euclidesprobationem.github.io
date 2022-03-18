@@ -12,7 +12,10 @@ X-Transformer try to connect transformer structure with neural odes, which hints
 
 - Neural ODE - Transformer Progamme
 
-<img src="/img/project-image/X-transformer/Neural_ODE_Transformer_Program.png" alt="Neural_ODE_Transformer_Program" style="zoom:70%;" />
+
+<p align="center">
+    <img src="/img/project-image/X-transformer/Neural_ODE_Transformer_Program.png" alt="Neural_ODE_Transformer_Program" style="zoom:70%;" />
+</p>
 
 - [Road to Fourier, Galerkin Transformer](https://changhaowu.github.io/2021/12/25/Frequency-Fourier-Galerkin/)
 
