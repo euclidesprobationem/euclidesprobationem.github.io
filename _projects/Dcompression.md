@@ -5,12 +5,14 @@ description: "We work toward Model Compression"
 
 # image:  img/project-image/XAI-emoji.jpeg
 layout: default
-last-updated: 2021-10-1
+last-updated: 2021-10-01
 
 ---
 
 
 #### Construct smaller and faster neural network models
+
+/tag
 
 #### Applying network prune、knowledge distillation and quantization methods
 
