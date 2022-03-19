@@ -1,4 +1,4 @@
----
+# ---
 title: XAI
 
 description: "We work toward XAI. Data Augmentation and Saliency Map Visualization are our research thrusts now"
@@ -7,7 +7,7 @@ description: "We work toward XAI. Data Augmentation and Saliency Map Visualizati
 layout: default
 last-updated: 2021-09-01
 
----
+# ---
 
 
 - XAI
