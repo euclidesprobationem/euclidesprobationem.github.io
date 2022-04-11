@@ -7,6 +7,14 @@ tuo leng:
     image: img/people/tuoleng.jpeg
     bio: Associate Professor of School of Computer Engineer and Science/School of Artificial Intelligence
     email: "tleng@shu.edu.cn"
+    
+zhenbing zeng:
+    display_name: "Zhenbing Zeng"
+    webpage: "https://qwc.shu.edu.cn/info/1074/2016.htm"
+    role: pi
+    image: img/people/zhenbingzeng.JPG
+    bio: Professor of College of Sciences
+    email: " zbzeng@sibs.ac.cn"
 
 
 
@@ -38,7 +46,7 @@ changhaowu:
 xiaokaizhang:
     display_name: "Xiaokai Zhang"
     webpage: "https://github.com/BitSecret"
-    bio: Masters Student, School of Computer Engineer and Science, Shanghai University
+    bio: Masters Student, School of Computer Engineer and Science
     role:  masters
     image: img/people/xiaokaizhang.jpg
     email: "xiaokaizhang1999@163.com"
@@ -46,19 +54,114 @@ xiaokaizhang:
 dengfengyue:
     display_name: "DengFeng Yue"
     webpage: "https://github.com/331368068"
-    bio: Masters Student, School of Computer Engineer and Science, Shanghai University
+    bio: Masters Student, School of Computer Engineer and Science
     role:  masters
     image: img/people/dengfengyue.jpg
     email: "ydf@shu.edu.cn"
+
+zhezhu:
+    display_name: "Zhe Zhu"
+    webpage: "https://github.com/zz863474396"
+    bio: Masters Student, School of Computer Engineer and Science, Shanghai University
+    role:  masters
+    image: img/people/zhuzhe.jpg
+    email: "zhuzhe@shu.edu.cn"
+
 jiazou:
     display_name: "Jia Zou"
     webpage: "https://github.com/PersonNoName"
-    bio: Masters Student, School of Computer Engineer and Science, Shanghai University
+    bio: Masters Student, School of Computer Engineer and Science
     role: masters
     image: img/people/JiaZou.jpg
     email: "ZouJ@shu.edu.cn"
+    
+yiminghe:
+    display_name: "YingMing He"
+    webpage: "https://github.com/748978460"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yiminghe.jpg
+    email: "h748978460@163.com"
+    
+chenyangmao:
+    display_name: "ChenYang Mao"
+    webpage: "https://github.com/shadymcy"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/chenyangmao.jpg
+    email: "shadymao@shu.edu.com"
+    
+# <<<<<<< g826796047-patch-1
+guoyanjun:
+    display_name: "YanJun Guo"
+    webpage: "https://github.com/g826796047"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yanjunguo.jpg
+    email: "yanjunguo@163.com"
+    
+# =======
+    
+# >>>>>>> main
+
+yiminghe:
+    display_name: "YingMing He"
+    webpage: "https://github.com/748978460"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yiminghe.jpg
+    email: "h748978460@163.com"
+
+xiaoxiaojin:
+    display_name: "XiaoXiao Jin"
+    webpage: "https://github.com/J1372628520"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/xiaoxiaojin.jpg
+    email: "leo_jxx@163.com"
+    
+yiwenhuang:
+    display_name: "YiWen Huang"
+    webpage: "https://github.com/Eaven21"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yiwenhuang.jpg
+    email: "15967121844@163.com"
+
+yifanwang:
+    display_name: "YiFan Wang"
+    webpage: "https://github.com/yf0216"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/yifanwang.jpg
+    email: "wangyifan0216@shu.edu.cn"
+    
+runanwang:
+    display_name: "RuNan Wang"
+    webpage: "https://github.com/RunanW"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/runanwang.jpg
+    email: "luckyrunan@163.com"
+
+tanrongwei:
+    display_name: "Tanrong Wei"
+    webpage: "https://github.com/FiFionaW"
+    bio: Masters Student, School of Science
+    role:  masters
+    image: img/people/tanrongwei.jpg
+    email: "trongwei@163.com"
+
+
 
 # undergraduate
+zhufangzhen:
+    display_name: "FangZhen Zhu"
+    webpage: "https://github.com/pigsquare"
+    bio: Undergraduate Student, School of Computer Engineer and Science
+    role:  ugrad
+    image: img/people/zhufangzhen.jpg
+    email: "zhufz@shu.edu.cn"
 
 
 
@@ -93,9 +196,59 @@ chaojie ni:
     role: alumni-masters
     bio: Mobile engineer, Kernel Development Group, Baidu Inc
     image: img/people/chaojieni.jpeg
+    email: "609295353@qq.com"
 
 
+Chao Yang:
+    display_name: "Chao Yang"
+    role: alumni-masters
+    bio:  Software Engineer, Department of QA, NetEase inc
+    image: img/people/chaoyang.jpg
+    email: "evanxephon@gmail.com"
 
+jielin wan:
+    display_name: "Jielin Wan"
+    role: alumni-masters
+    bio: Mobile engineer, Kernel Development Group, Baidu Inc
+    image: img/people/jielinwang.JPG
+    email: "jielinwan@163.com"
 
-# undergrads
+Zhufu Lu: 
+    display_name: "Zhufu Lu" 
+    role: alumni-masters 
+    bio: Manager,Department of Attract Investment, Lingang Group 
+    image: img/people/zhufulu.jpg 
+    email: "zflu@shlingang.com" 
+
+Yu Wang:
+    display_name: "Yu Wang"
+    role: alumni-masters
+    bio: Software Engineer，5G development department, Huawei inc
+    image: img/people/yuwang.JPG
+    email: 1028247029@qq.com
+    
+
+# <<<<<<< HEAD
+# # undergrads 
+# =======
+# Zhufu Lu: 
+#     display_name: "Zhufu Lu" 
+#     role: alumni-masters 
+#     bio: Manager,Department of Attract Investment , Lingang Group 
+#     image: img/people/zhufulu.jpg 
+#     email: "zflu@shlingang.com" 
+
+# # <<<<<<< HEAD
+# Yu Wang:
+#     display_name: "Yu Wang"
+#     role: alumni-masters
+#     bio: Software Engineer，5G development department，Huawei inc
+#     image: img/people/yuwang.JPG
+    
+
+# # undergrads 
+# # =======
+# # undergrads
+# # >>>>>>> 71e38a81b8176ce7a025976d7928f761828cf7ee
+# >>>>>>> ca3a83c5e1c19f1ec5204cd460c7c24bc3050acb
 

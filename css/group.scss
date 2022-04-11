@@ -88,7 +88,8 @@ ul.news {
 }
 
 @media (min-width: 768px) {
-    .role.phd      { column-count: 2 }
+    .role.masters     { column-count: 2 }
+    .role.pi     { column-count: 2 }
     .project-people { column-count: 3 }
     //.card-columns   { column-count: 3 }
     .card-columns   { display: flex;
@@ -137,15 +138,23 @@ section {
 
 .person {
 
-    margin-bottom: 20px;
+
+    min-height: 120px;
+    padding-bottom: 20px;
+    text-align: left;
+    padding-top: 15px;
+    
 
     .profile {
-        height: 90px;
-        width: 90px;
+        height: 95px;
+        width: 95px;
     }
 
     .bio {
+        // height: 100px;
+        // width: 250px;
         color: $gray;
+        font-size: 95%;
     }
 
     .email {
@@ -162,6 +171,7 @@ section {
     .bio {
         margin-left: 1em;
     }
+
 }
 
 svg {
