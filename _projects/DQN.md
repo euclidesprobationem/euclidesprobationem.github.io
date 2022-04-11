@@ -12,7 +12,7 @@
 			- [4.2.1 问题提出](#421-问题提出)
 			- [4.2.2 算法原理](#422-算法原理)
 
-####具体相关代码实现在本人[github](https://github.com/PersonNoName/RL)上
+#### 具体相关代码实现在本人[github](https://github.com/PersonNoName/RL)上
 
 ### 1. 强化学习平台 gym 平台
 
