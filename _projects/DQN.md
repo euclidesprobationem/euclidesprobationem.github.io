@@ -12,6 +12,8 @@
 			- [4.2.1 问题提出](#421-问题提出)
 			- [4.2.2 算法原理](#422-算法原理)
 
+####具体相关代码实现在本人[github](https://github.com/PersonNoName/RL)上
+
 ### 1. 强化学习平台 gym 平台
 
 ​	gym的主要是一个提供小游戏来进行强化学习，其通过返回state给强化学习Agent来选择action并对于action返回相应的reward给Agent来学习最佳策略。
