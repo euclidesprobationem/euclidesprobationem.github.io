@@ -38,13 +38,13 @@
 	<img src="/img/project-image/DQN/algorithm2.jpg">
 </p>
 
-<center>图一 论文算法实现</center>
+<p align="center">图一 论文算法实现</p>
 
 <p align="center">
 	<img src="/img/project-image/DQN/algorithm.png">
 </p>
 
-<center>图二 算法图解流程</center>
+<p align="center">图二 算法图解流程</p>
 
 ### 4. 基于DQN的算法改进
 
@@ -74,10 +74,10 @@
 	<img src="/img/project-image/DQN/dueling.jpg">
 </p>
 
-<center>图三 两个函数不同的关注重点</center>
+<p align="center">图三 两个函数不同的关注重点</p>
 
 <div align=center> <img src="/img/project-image/DQN/dueling_network.jpg"> </div>			
 
-<center>图四 Dueling DQN网络结构</center>
+<p align="center">图四 Dueling DQN网络结构</p>
 
 ​			在DQN中其网络的输出为Q(s,a)代表着当前状态和动作对结果的影响程度，越大代表每条策略经过它的可能性越大。论文中给出如下关系Q(s,a) = V(s)+A(s,a)。其原理就是让原来仅以一个网络获得Q(s,a)变成利用两个网络来相互制衡获得Q(s,a)。但在实际过程中，Q(s,a)很大程度要依赖V(s)的值，而整个训练过程，V(s)的值可能为0，即A(s,a)=Q(s,a)这与实际不符。故可以对A(s,a)进行约束，如另整个等式为Q(s,a) = V(s)+(A(s,a)-mean(A(s,a)))
