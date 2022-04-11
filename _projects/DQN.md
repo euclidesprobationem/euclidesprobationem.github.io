@@ -76,7 +76,7 @@
 
 <center>图三 两个函数不同的关注重点</center>
 
-<div align=center> <img src="/img/project-image/DQNdueling_network.jpg"> </div>			
+<div align=center> <img src="/img/project-image/DQN/dueling_network.jpg"> </div>			
 
 <center>图四 Dueling DQN网络结构</center>
 
