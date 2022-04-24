@@ -1,7 +1,7 @@
 ---
 title: DQN及其改进算法实现
 
-description: DQN与改进算法的原理
+description: DQN与改进算法的原理，并将其应用在强化学习平台gym上的LunarLander实验
 
 # image:  img/project-image/Q.jpg
 layout: default
