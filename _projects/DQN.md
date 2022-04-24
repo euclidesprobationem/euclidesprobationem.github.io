@@ -4,6 +4,7 @@ title: DQN及其改进算法实现
 description: DQN与改进算法的原理
 
 # image:  img/project-image/Q.jpg
+layout: default
 last-updated: 2022-04-10
 
 ---
