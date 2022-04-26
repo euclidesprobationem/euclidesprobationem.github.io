@@ -1,5 +1,13 @@
-## DQN及其改进算法实现
+---
+title: DQN及其改进算法实现
 
+description: DQN与改进算法的原理，并将其应用在强化学习平台gym上的LunarLander实验
+
+# image:  img/project-image/Q.jpg
+layout: default
+last-updated: 2022-04-10
+
+---
 - [DQN及其改进算法实现](#dqn及其改进算法实现)
 	- [1. 强化学习平台 gym 平台](#1-强化学习平台-gym-平台)
 	- [2. DQN介绍](#2-dqn介绍)
@@ -12,8 +20,7 @@
 			- [4.2.1 问题提出](#421-问题提出)
 			- [4.2.2 算法原理](#422-算法原理)
 
-#### 具体相关代码实现在本人[github](https://github.com/PersonNoName/RL)上
-
+#### 具体相关代码实现在个人[github](https://github.com/PersonNoName/RL)上
 ### 1. 强化学习平台 gym 平台
 
 ​	gym的主要是一个提供小游戏来进行强化学习，其通过返回state给强化学习Agent来选择action并对于action返回相应的reward给Agent来学习最佳策略。
@@ -78,7 +85,7 @@
 
 <p align="center">图三 两个函数不同的关注重点</p>
 
-<div align=center> <img src="/img/project-image/DQN/dueling_network.jpg"> </div>			
+<div align=center> <img src="/img/project-image/DQN/dueling_network.jpg"> </div>					
 
 <p align="center">图四 Dueling DQN网络结构</p>
 
