@@ -1,3 +1,11 @@
+---
+title: FormalGeo-SAT
+description: Formal representation and solving for SAT-level Euclidean plane geometry problems. 
+image: img/project-image/FormalGeo-SAT/FormalGeo-SAT.png
+layout: default
+last-updated: 2023-02-24
+---
+
 # FormalGeo-SAT
 Formal representation and solving for SAT-level Euclidean plane geometry problems.  
 **FormalGeo-SAT** is an extended version of **[FormalGeo](https://github.com/BitSecret/FormalGeo)**. It supports solving more types of plane geometric problems.
