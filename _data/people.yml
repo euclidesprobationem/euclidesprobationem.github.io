@@ -91,7 +91,6 @@ chenyangmao:
     image: img/people/chenyangmao.jpg
     email: "shadymao@shu.edu.com"
     
-# <<<<<<< g826796047-patch-1
 guoyanjun:
     display_name: "YanJun Guo"
     webpage: "https://github.com/g826796047"
@@ -99,10 +98,6 @@ guoyanjun:
     role:  masters
     image: img/people/yanjunguo.jpg
     email: "yanjunguo@163.com"
-    
-# =======
-    
-# >>>>>>> main
 
 yiminghe:
     display_name: "YingMing He"
@@ -147,21 +142,43 @@ runanwang:
 tanrongwei:
     display_name: "Tanrong Wei"
     webpage: "https://github.com/FiFionaW"
-    bio: Masters Student, School of Science
+    bio: Masters Student, School of Computer Engineer and Science
     role:  masters
     image: img/people/tanrongwei.jpg
     email: "trongwei@163.com"
-
-
-
-# undergraduate
+    
 zhufangzhen:
     display_name: "FangZhen Zhu"
     webpage: "https://github.com/pigsquare"
-    bio: Undergraduate Student, School of Computer Engineer and Science
-    role:  ugrad
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
     image: img/people/zhufangzhen.jpg
     email: "zhufz@shu.edu.cn"
+
+nazhu:
+    display_name: "Na Zhu"
+    webpage: "https://github.com/RuRuo0"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/nazhu.jpg
+    email: "nazhu@shu.edu.cn"
+    
+qikehuang:
+    display_name: "Qike Huang"
+    webpage: "https://github.com/huangqaqqk"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/qikehuang.jpg
+    email: "qkhuang112@163.com"
+
+# undergraduate
+yangli:
+    display_name: "Yang Li"
+    webpage: "https://github.com/leeyoung628"
+    bio: Undergraduate Student, School of Computer Engineer and Science
+    role:  ugrad
+    image: img/people/yangli.jpg
+    email: "laying2000@outlook.com"
 
 
 
