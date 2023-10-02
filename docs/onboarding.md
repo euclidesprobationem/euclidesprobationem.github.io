@@ -3,7 +3,7 @@
 Welcome to the team! As a quick order of business, let's get you added to the website!
 
 1) Install [git], create a [GitHub] account and request to join [BattModels]
-2) Clone the website: `git clone https://github.com/BattModels/group-website.git`
+2) Clone the website: `git clone https://github.com/euclidesprobationem/euclidesprobationem.github.io.git`
 3) Open `_data/people.yml` in the newly created `group-website` folder
 4) Add a small (<100 Kb) headshot here: `img/people/andrewid.png`
     - If your headshot is too large, try compressing it with an online tool
@@ -13,7 +13,7 @@ Welcome to the team! As a quick order of business, let's get you added to the we
     - i.e. if you're a master's student, add your entry under `# masters`
     - Refer to [Entry Format](#entry-format) for the desired format
 
-5) Commit and push your changes:
+6) Commit and push your changes:
     - Create a new branch: `git checkout -b add_john_doe`
     - Add files to the staging area with `git add`
         - `git add _data/people.yml`
@@ -21,12 +21,12 @@ Welcome to the team! As a quick order of business, let's get you added to the we
     - Commit the staged changes: `git commit -m "Adding John Doe's Info"`
     - Push the commit to Githib with `git push -u origin add_john_doe`
 
-6) Open a [pull request on Github][pr]
+7) Open a [pull request on Github][pr]
     - If this is your first commit, slack @awadell1 to approve running CI
     - If all checks pass, merge your pull request
     - Otherwise, try to [fix the issues](1) or [ask for help](2)
 
-7) Congrats on making your first pull request in the group!
+8) Congrats on making your first pull request in the group!
 
 [1]: https://github.com/BattModels/group-website/blob/master/docs/making_changes.md#status-checks
 [2]: https://github.com/BattModels/group-website/issues
