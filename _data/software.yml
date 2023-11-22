@@ -1,8 +1,8 @@
 FormalGeo:
-  title: "FormalGeo-SAT"
+  title: "FormalGeo"
   link: "https://github.com/BitSecret/FormalGeo-SAT"
-  description: "Formal representation and solving for SAT-level Euclidean plane geometry problems."
-  image: img/software-image/FormalGeo-SAT.png
+  description: "Formal representation and solving for Euclidean plane geometry problems."
+  image: img/software-image/logo-full-black.png
   year: 2023
-  authors: "Tuo Leng, Xiaokai Zhang, etc"
+  authors: "Xiaokai Zhang, Na Zhu, Yiming He, Jia Zou, Tuo Leng, etc"
   
