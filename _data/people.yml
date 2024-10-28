@@ -150,17 +150,29 @@ zhengyu hu:
     image: img/people/zhengyuhu.jpg
     email: "huzhengyu2016@gmail.com"
     
-
+# Yuchang Yang:
+#     display_name: "Yuchang Yang"
+#     webpage: ""
+#     bio: Masters Student, School of Computer Engineer and Science
+#     role: masters
+#     image: img/people/yuchangyang.jpg
+#     email: ""
 
 
 # Undergraduate
 # Currently no Undergraduate
 
 
-
-# phd students, currently alphabetical
+# PHD students, currently alphabetical
 # Currently no phd students
 
+# xiaokai zhang:
+#     display_name: "Xiaokai Zhang"
+#     webpage: "https://bitsecret.github.io/"
+#     bio: Masters Student, School of Computer Engineer and Science
+#     role:  masters
+#     image: img/people/xiaokaizhang.jpg
+#     email: "xiaokaizhang1999@163.com"
 
 
 # COMMENCE ALUMNI SECTION
